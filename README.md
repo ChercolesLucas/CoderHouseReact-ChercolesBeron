@@ -26,4 +26,6 @@ Cualquier critca sobre la parte del diseño es bienvenida.
 Con nada mas que decir no estamos viendo el jueves! abrazo.
 Chercoles Lucas
 
+Al final si puede hacer el deploy! ahi deje el link de githubpages
+https://chercoleslucas.github.io/CoderHouseReact-ChercolesBeron/
 https://drive.google.com/file/d/1DyPTC35U1mvGxQJlBlTTaXn0CwYx1OeV/view?usp=drive_link
